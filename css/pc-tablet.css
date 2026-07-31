@@ -2,6 +2,7 @@
 .page-shell{grid-template-columns:minmax(0,.94fr) minmax(0,1.06fr);gap:3.2%;max-width:96rem;margin:auto;padding:0 4.4% 3rem}
 .intro{padding-top:.4rem}.feature-grid{grid-template-columns:repeat(3,1fr)}
 .title-line{display:block;white-space:nowrap}
+.feature-title-line{display:block;white-space:nowrap}
 .recommend-card{margin-top:.85rem}
 .contact-panel{padding:2.15rem 3.4rem 2.2rem}
 .form-heading{margin-bottom:1.7rem}
